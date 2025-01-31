@@ -1,0 +1,11 @@
+pandas
+matplotlib
+pyrebase4
+plotly
+pyparsing
+streamlit
+./dist/NorenRestApi-0.0.30-py2.py3-none-any.whl
+requests
+websocket_client
+pyyaml
+pyotp
